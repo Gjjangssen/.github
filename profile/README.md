@@ -4,22 +4,20 @@
 
 <table align = "center">
   <tr align = "center">
+    <td colspan='2'><h3>Android Team</h3></td>
+    <td colspan='2'><h3>Server Team</h3></td>
+  </tr>
+  <tr align = "center">
     <td><a href = "https://github.com/so1h0lyu"><img src="https://avatars.githubusercontent.com/u/105511209?v=4" width="200"></a></td>
-    <td><a href="https://github.com/dong0one"><img src="https://avatars.githubusercontent.com/u/109194790?v=4" width="200"></a></td>
     <td><a href="https://github.com/namdaeun"><img src="https://avatars.githubusercontent.com/u/96781926?v=4" width="200"></a></td>
+    <td><a href="https://github.com/dong0one"><img src="https://avatars.githubusercontent.com/u/109194790?v=4" width="200"></a></td>
     <td><a href="https://github.com/5jisoo"><img src="https://avatars.githubusercontent.com/u/96935231?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
-    <td><a href = "https://github.com/so1h0lyu">m1nz00</a></td>
-    <td><a href = "https://github.com/dong0one">dong0one</a></td>
-    <td><a href = "https://github.com/namdaeun">namdaeun</a></td>
-    <td><a href = "https://github.com/5jisoo">Jisoo Oh</a></td>
-  </tr>
-  <tr align = "center">
-    <td><a href = "https://github.com/so1h0lyu">김민주</a></td>
-    <td><a href = "https://github.com/dong0one">김보현</a></td>
-    <td><a href = "https://github.com/namdaeun">남다은</a></td>
-    <td><a href = "https://github.com/5jisoo">오지수</a></td>
+    <td><a href = "https://github.com/so1h0lyu">김민주 (m1nz00)</a></td>
+    <td><a href = "https://github.com/namdaeun">남다은 (namdaeun)</a></td>
+    <td><a href = "https://github.com/dong0one">김보현 (dong0one)</a></td>
+    <td><a href = "https://github.com/5jisoo">오지수 (Jisoo Oh)</a></td>
   </tr>
 </table>
 
