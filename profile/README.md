@@ -17,7 +17,7 @@
     <td><a href = "https://github.com/so1h0lyu">김민주 (m1nz00)</a></td>
     <td><a href = "https://github.com/namdaeun">남다은 (namdaeun)</a></td>
     <td><a href = "https://github.com/dong0one">김보현 (dong0one)</a></td>
-    <td><a href = "https://github.com/5jisoo">오지수 (Jisoo Oh)</a></td>
+    <td><a href = "https://github.com/5jisoo">오지수 (Jisu Oh)</a></td>
   </tr>
 </table>
 
